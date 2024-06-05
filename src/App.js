@@ -32,7 +32,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Search component in ReactJS</h1>
+      <h1>Fetch & Search</h1>
 
       <div className="input-box">
         <TextField
